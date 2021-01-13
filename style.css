@@ -1,0 +1,10 @@
+body {
+    background-color: #00c2;
+}
+#flex {
+    display: flex;
+    flex-direction: row;
+}
+
+nav {
+    background-color: #0c2;
